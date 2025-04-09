@@ -24,7 +24,6 @@ Drishtikon is a **smart wearable device** featuring:
 - Real-time **object and obstacle detection**
 - **Facial recognition** for identifying familiar individuals
 - **Threat detection** (e.g., weapons)
-- **GPS + 4D mapping** for guided navigation
 - **Audio + Haptic feedback** for alerts and instructions
 - **Speech communication** for interactive control
 
@@ -44,7 +43,7 @@ Drishtikon is a **smart wearable device** featuring:
 
 - **Computer Vision**: OpenCV (Canny, Hough Transform)
 - **Deep Learning Models**: TensorFlow, YOLO, SSD
-- **Navigation & Mapping**: GPS, 4D mapping integration
+- **Navigation & Mapping**: GPS, mapping integration
 - **Audio Interface**: Real-time spoken guidance
 - **Voice Interaction**: Speech recognition and control
 
