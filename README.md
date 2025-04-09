@@ -1,5 +1,5 @@
 
-# 🦯 Drishtikon – AI-Powered Navigation for the Visually Impaired
+# 🦯 Drishtikon – ML-Powered Navigation for the Visually Impaired
 
 > **"Bringing light to the unseen."**
 
