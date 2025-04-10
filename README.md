@@ -118,11 +118,11 @@ Projected **7.8% CAGR** growth in assistive tech market.
 
 ## 👥 Team
 
+- Prajwal Kambale
 - Abhinav Tadiparthi  
 - Ankit Singh  
 - Soumyajeet Ghatak  
 - Nitesh Kumar  
-- Prajwal Kambale
 
 ---
 
